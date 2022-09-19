@@ -3,7 +3,7 @@
 // Call this function and assign 3 values ​​to the function call.
 
 // Spanish:
-// Crear una función llamada "intervalo" que posea tres parámetros llamados  “numero”, “min” y “max” y determinar si el valor de la variable “numero” se encuentra dentro del intervalo entre min y max. 
+// Crear una función llamada "intervalo" que posea tres parámetros llamados “número”, “min” y “max” y determinar si el valor de la variable “número” se encuentra dentro del intervalo entre min y max. 
 // Llamá a esta función desde el main y pasale los 3 valores al llamado de la función.
 
 fun main(args: Array<String>) {
