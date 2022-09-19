@@ -2,7 +2,7 @@
 
 // English
 
-This projects are part of a course on Mobile Apps Development made in 2022 in “Aprendé Programando 5.0”. In this course we learned how to create Mobile Apps using Kotlin starting from the acquisition of knowledge in the structured paradigm.
+These projects are part of a course on Mobile Apps Development made in 2022 in “Aprendé Programando 5.0”. In this course we learned how to create Mobile Apps using Kotlin starting from the acquisition of knowledge in the structured paradigm.
 
 // Spanish
 
