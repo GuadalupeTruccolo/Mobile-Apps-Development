@@ -1,5 +1,5 @@
 // English:
-// Create a program using a while loop that displays the values ​​from 1 to 5 and display the console whether these numbers are odd or even.
+// Create a program using a while loop that displays the values ​​from 1 to 5 and display in the console whether these numbers are odd or even.
 
 // Spanish:
 // Desarrollar un programa utilizando un bucle while que muestre los valores que van del 1 al 5 e informar por consola si cada uno de estos números es par o impar.
